@@ -1,0 +1,1 @@
+helm install [RELEASE_NAME] prometheus-community/kube-prometheus-stack --values ./values-prometheus.yaml
