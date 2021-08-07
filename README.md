@@ -23,10 +23,10 @@
 ![Application-services](answer-img/application-services.PNG)
 ## Setup the Jaeger and Prometheus source
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)*TODO:* Expose Grafana to the internet and then setup Prometheus as a data source. Provide a screenshot of the home page after logging into Grafana.
-![Grafana-homepage](answer-img/grafana.PNG)
+![Grafana-homepage](answer-img/grafana.png)
 ## Create a Basic Dashboard
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)*TODO:* Create a dashboard in Grafana that shows Prometheus as a source. Take a screenshot and include it here.
-![Grafana-Prometheus-Source](answer-img/grafana-prometheus-source.PNG)
+![Grafana-Prometheus-Source](answer-img/grafana-prometheus-source.png)
 ## Describe SLO/SLI
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)*TODO:* Describe, in your own words, what the SLIs are, based on an SLO of *monthly uptime* and *request response time*.
 
