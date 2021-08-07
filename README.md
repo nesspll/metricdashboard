@@ -101,7 +101,7 @@ TROUBLE TICKET
 
 ## Final Dashboard
 *TODO*: Create a Dashboard containing graphs that capture all the metrics of your KPIs and adequately representing your SLIs and SLOs. Include a screenshot of the dashboard here, and write a text description of what graphs are represented in the dashboard.  
-![final-dashboard](answer-img/final-dashboard.PNG)
+![final-dashboard](answer-img/final-dashboard.png)
 
 - Jaeger Flask Metrics : It measures the total latency for each service.
 - Flask Application Metrics: It measures for each service the Uptime/Errors/200HttpStatuses/CPU-Memory/Request Latency etc per period of time.
